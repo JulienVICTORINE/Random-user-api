@@ -1,6 +1,6 @@
 # 🎴 Random User – Mini Projet Web
 
-![Carte Utilisateur](img/FireShot Capture 259 - Random User.png)
+![Carte Utilisateur](./img/FireShot Capture 259 - Random User.png)
 
 Bienvenue dans ce petit projet web moderne !  
 L’objectif est de **générer des cartes de visite dynamiques** à partir d’une API publique, avec un style épuré, animé et responsive.

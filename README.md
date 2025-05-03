@@ -1,5 +1,7 @@
 # 🎴 Random User – Mini Projet Web
 
+![Carte Utilisateur](./img/Carte-utilisateur-avec-api.png)
+
 Bienvenue dans ce petit projet web moderne !  
 L’objectif est de **générer des cartes de visite dynamiques** à partir d’une API publique, avec un style épuré, animé et responsive.
 

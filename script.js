@@ -22,6 +22,9 @@ async function chargementUtilisateur() {
               user.location.city
             }, ${user.location.country}</p>
             <p><span class="highlight">Téléphone :</span> ${user.phone}</p>
+            <p><span class="highlight">Password :</span> ${
+              user.login.password
+            }</p>
         `;
   } catch (error) {
     console.error("Erreur dans le chargement de l'API :", error);

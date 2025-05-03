@@ -16,7 +16,7 @@ body {
   );
   background-size: 400% 400%;
   animation: gradientBG 20s ease infinite;
-  font-family: "Playfair Display", serif;
+  /* font-family: "Playfair Display", serif; */
   font-weight: 600;
   color: #f4eaff;
   display: flex;
@@ -24,7 +24,7 @@ body {
   justify-content: center;
   height: 100vh;
   margin: 0;
-  font-family: "Orbitron", serif;
+  font-family: "Cinzel", serif;
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;

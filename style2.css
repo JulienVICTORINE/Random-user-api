@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Quicksand:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Playfair+Display:wght@400;700&family=Poppins:wght@300;400;600;700&display=swap");
 
 * {
   margin: 0;
@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: "Quicksand", sans-serif;
+  font-family: "Cinzel", sans-serif;
   background: #020024;
   background: linear-gradient(
     90deg,
@@ -34,15 +34,20 @@ body {
 }
 
 .navbar {
-  background-color: rgba(0, 0, 0, 0.3);
-  padding: 1rem 2rem;
-  border-radius: 15px;
-  margin-bottom: 2rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: rgba(0, 0, 0, 0.3);
   backdrop-filter: blur(10px);
+  padding: 1rem 2rem;
   border: 2px solid #c499f3;
+  border-radius: 15px;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  width: 100%;
+  margin-bottom: 2rem;
   box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
 }
 

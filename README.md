@@ -26,3 +26,5 @@ L’objectif est de **générer des cartes de visite dynamiques** à partir d’
 - API : [https://randomuser.me/api](https://randomuser.me/api)
 
 ---
+
+![Carte Utilisateur](./img/Carte-utilisateur-rendu-final.png)
